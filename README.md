@@ -5,7 +5,7 @@
 1. Clone the repository:
    ```sh
    git clone https://github.com/dovakin0007/secret_santa_assignment.git
-   cd PYTHON_SECRET_SANTA
+   cd secret_santa_assignment
    ```
 
 2. Install dependencies:
