@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/dovakin0007/secret_santa_assignment.git
    cd PYTHON_SECRET_SANTA
    ```
 
