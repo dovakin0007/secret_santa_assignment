@@ -17,7 +17,7 @@
 
 To execute the Secret Santa script, navigate to the project directory and run:
    ```sh
-   python secret_santa/main.py
+   python -m secret_santa.main
    ```
 
 ## Running Tests
